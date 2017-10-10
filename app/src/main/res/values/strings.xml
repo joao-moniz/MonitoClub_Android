@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MonitorClub</string>
+    <string name="facebook_app_id">762149020621576</string>
+    <string name="fb_login_protocol_scheme">fb762149020621576</string>
+    <string name="cancel_login">Operação de login cancelada.</string>
+    <string name="error_login">Ocorreu um erro ao logar.</string>
+    <array name="cursos">
+        <item>Ciclo Básico</item>
+        <item>Engenharia Ambiental</item>
+        <item>Engenharia Civil</item>
+        <item>Engenharia de Alimentos</item>
+        <item>Engenharia de Produção</item>
+        <item>Engenharia Elétrica</item>
+        <item>Engenharia Mecânica</item>
+        <item>Engenharia Química</item>
+    </array>
+    <array name="MonitoriaProdução">
+        <item>Controle Estatístico da Qualidade</item>
+        <item>Laboratório de Estatística</item>
+        <item>Pesquisa Operacional</item>
+        <item>Probabilidade e Estatística para Engenharia</item>
+        <item>Programação e Controle da Produção I</item>
+        <item>Projeto do Produto</item>
+        <item>Sistemas de Informações</item>
+    </array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c6338f34</color>
+    <color name="colorPrimaryDark">#32de43</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bagroudPar">#e9f4f2</color>
+    <color name="bagroudImpar">#53af7a</color>
+    <color name="bagroudNormal">@android:color/background_light</color>
+    <color name="bagroudClic">#6ceaa1</color>
+    <color name="colorTransparente">@android:color/transparent</color>
+</resources>

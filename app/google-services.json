@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "591798288572",
+    "firebase_url": "https://monitoria-93ebd.firebaseio.com",
+    "project_id": "monitoria-93ebd",
+    "storage_bucket": "monitoria-93ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591798288572:android:ce64304590c828e8",
+        "android_client_info": {
+          "package_name": "com.example.joao_.monitoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591798288572-27nfuo9786jrfjaqmhh6bh8tk5rjcspt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joao_.monitoria",
+            "certificate_hash": "b84e9f1b5e23c476797b73d05e9ff9af94860674"
+          }
+        },
+        {
+          "client_id": "591798288572-sj17d3esemuujj2qllts9iknodg58ehr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHRDjJSvlPmSQ8zW3eFPQ6O737fXi5z8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591798288572-sj17d3esemuujj2qllts9iknodg58ehr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

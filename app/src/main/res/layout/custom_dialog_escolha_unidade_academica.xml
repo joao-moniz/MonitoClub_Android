@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/TextAppearance.AppCompat.Headline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:paddingBottom="16dp"
+        android:text="Unidade Acadêmica"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="26sp" />
+
+    <ListView
+        android:id="@+id/lv_dialogEscolhaUnidadeAcademia_UnidadesAcademicas"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignEnd="@+id/title"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:minHeight="100dp" />
+
+    <TextView
+        android:id="@+id/emptyElementListaUnidadeAcademica"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/title"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="Nenhuma unidade acadêmica cadastrada."
+        android:textAlignment="center"
+        android:textColor="#525252"
+        android:textSize="19.0sp"
+        android:visibility="gone" />
+
+
+</RelativeLayout>
